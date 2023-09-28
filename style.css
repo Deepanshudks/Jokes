@@ -11,6 +11,7 @@ html {
     justify-content:center;
     align-items:center;
     font-size:24px;
+      opacity:0.3;
   }
   #generatebtn{
     background-color: #fd0d0dc7;
@@ -21,4 +22,8 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+.container {
+      background: url(https://c4.wallpaperflare.com/wallpaper/434/309/126/minimalism-cat-funny-digital-art-artwork-hd-wallpaper-preview.jpg)no-repeat center/cover;
+  height:620px;
   }
